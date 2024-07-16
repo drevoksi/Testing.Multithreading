@@ -1,2 +1,0 @@
-# Testing.Multithreading
-An interview exercise to perform calculations in parallel using threading. The task was completed in C#. I, too, would like this to be a proper repository on GitHub, so I am also adding the README file :)
